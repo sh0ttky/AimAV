@@ -1,0 +1,7 @@
+Scan Statistics:
+Total files found: 28
+Total directories found: 6
+Total files scanned: 15
+Total folders scanned: 2
+Elapsed time: 2.00 seconds
+Total viruses detected: 4
